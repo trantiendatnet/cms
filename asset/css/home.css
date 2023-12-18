@@ -2,7 +2,7 @@
     font-family: 'SVN-Gilroy';
     font-style: normal;
     font-weight: 700;
-    src: local('SVN-Gilroy'), url('/asset/font/SVNGilroy-Bold.woff') format('woff');
+    src: local('SVN-Gilroy'), url('/cms/asset/font/SVNGilroy-Bold.woff') format('woff');
 }
 html, body{
 font-family: 'SVN-Gilroy', sans-serif;
